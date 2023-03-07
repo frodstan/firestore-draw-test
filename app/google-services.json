@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524896699",
+    "project_id": "nrk-test-6cba7",
+    "storage_bucket": "nrk-test-6cba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524896699:android:78d72920048189dcab1c9e",
+        "android_client_info": {
+          "package_name": "com.example.nrk_firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524896699-f456v2c3s0it1p7g6jivp7paa369bgjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA68TGkgzvrjVOiPCAGexIkNKgslRLdW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524896699-f456v2c3s0it1p7g6jivp7paa369bgjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
